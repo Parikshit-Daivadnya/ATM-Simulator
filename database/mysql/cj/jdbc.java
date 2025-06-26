@@ -1,5 +1,5 @@
 
-package com.mysql.cj;
+package mysql.cj;
 
 /**
  *
