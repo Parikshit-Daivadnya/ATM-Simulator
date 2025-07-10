@@ -9,12 +9,12 @@ import java.sql.*;
 
 public class BalanceEnquiry extends JFrame implements ActionListener{
     
-    String pinNum;
+    String cardNum;
     JButton backButton;
     
     public BalanceEnquiry(String pinNo)
     {
-        pinNum=pinNo;
+        cardNum=pinNo;
         int balance=0;
         setLayout(null);
         setSize(800,750);
