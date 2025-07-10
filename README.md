@@ -31,7 +31,7 @@ This project was developed during self-study to strengthen skills in core Java, 
 
 
 🚀 Future Enhancements to do:
-Add PIN change functionality.
+
 Integrate receipt printing.
 Multi-language support.
 Enhance security (encryption of PIN).
