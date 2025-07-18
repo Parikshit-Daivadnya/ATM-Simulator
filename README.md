@@ -54,42 +54,42 @@ JDBC (Database Connectivity)
 
 🚀 Future Enhancements to do:
 
--Integrate receipt printing.
+1)Integrate receipt printing.
 
-Build a modern and user friendly interface.
+2)Build a modern and user friendly interface.
 
-Remote or Cloud Database
+3)Remote or Cloud Database
 Migrate from a local MySQL DB to a cloud-hosted MySQL (e.g., AWS RDS, Google Cloud SQL) for multi-user access and deployment.
 
-RESTful API Development
+4)RESTful API Development
 Create REST APIs using Spring Boot for all banking operations so other systems (mobile apps or frontend UIs) can interact with the backend securely.
 
-Role-Based Access Control (RBAC)
+5)Role-Based Access Control (RBAC)
 Add admin and staff roles:
 
 Admin: manage users, view logs.
 
 Staff: view complaints or manually authorize large transactions.
 
-Transaction Analytics Dashboard
+6)Transaction Analytics Dashboard
 Use Power BI, Tableau, or Spring Boot + Thymeleaf to show transaction statistics, user activity heatmaps, etc.
 
-Security Enhancements with Spring Security
+7)Security Enhancements with Spring Security
 Secure APIs and UI using:
 
 Password encryption (e.g., BCrypt)
 
-Role-based login
+8)Role-based login
 
 JWT (JSON Web Token) for secure session handling
 
-Automated Email Notifications
+9)Automated Email Notifications
 Notify users after each transaction, or send monthly account summaries.
 
-Simulated ATM Hardware Integration
+10)Simulated ATM Hardware Integration
 Interface with mock card readers, keypads, or receipt printers using hardware simulation libraries or JavaFX UI elements.
 
-Multi-language Support
+11)Multi-language Support
 Add i18n (internationalization) using Spring Boot to support multiple languages like Hindi, Marathi, etc.
 
 
