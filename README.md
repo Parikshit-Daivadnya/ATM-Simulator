@@ -36,6 +36,7 @@ Integrate receipt printing.
 Multi-language support.
 Enhance security (encryption of PIN).
 Add Admin Panel for Bank-side Management.
+Build a modern and user friendly interface.
 
 
 Feel Free to Contribute!
